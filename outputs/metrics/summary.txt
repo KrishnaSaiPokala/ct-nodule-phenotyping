@@ -1,0 +1,6 @@
+Results placeholder for: Pulmonary Nodule Phenotyping from CT Scans
+
+Add:
+- main metrics
+- one or two key findings
+- one limitation or next step

@@ -1,0 +1,15 @@
+{
+  "title": "Pulmonary Nodule Phenotyping from CT Scans",
+  "repo_name": "ct-nodule-phenotyping",
+  "dataset": "LIDC-IDRI / TCIA",
+  "task": "Pulmonary nodule phenotyping from CT scans and radiologist annotations",
+  "keywords": [
+    "CT Imaging",
+    "Phenotyping",
+    "Medical Imaging",
+    "Quality Control",
+    "Biomedical Analytics"
+  ],
+  "level": "graduate portfolio project",
+  "owner": "Krishna Sai Pokala"
+}
